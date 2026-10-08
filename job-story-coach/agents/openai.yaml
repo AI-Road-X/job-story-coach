@@ -1,0 +1,4 @@
+interface:
+  display_name: "求职故事教练"
+  short_description: "面向校招，按岗位要求逐步打磨简历、面试故事与作品集材料"
+  default_prompt: "Use $job-story-coach to tailor my résumé and interview stories to this job posting."
