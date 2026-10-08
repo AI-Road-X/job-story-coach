@@ -11,7 +11,7 @@
 ### 使用 skills CLI
 
 ```bash
-npx skills add AI-Road-X/job-story-coach --skill job-story-coach
+npx skills add https://github.com/AI-Road-X/job-story-coach/tree/main/job-story-coach
 ```
 
 如需查看 CLI 支持的选项：
